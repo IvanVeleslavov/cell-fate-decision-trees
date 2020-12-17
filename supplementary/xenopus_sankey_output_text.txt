@@ -1,0 +1,754 @@
+S08-blastula [5894] LOC100488209_MUC5B,3.21
+sox11_SOX11,4.25 [278] S10-marginal zone
+sox11_SOX11,4.25 [136] S10-marginal zone
+aplnr_APLNR,0.24 [414] sox11_SOX11,4.25
+:sox11_SOX11,4.25 #343434
+frzb_FRZB_1,4.72 [637] S10-marginal zone
+frzb_FRZB_1,4.72 [38] S10-marginal zone
+aplnr_APLNR,0.24 [675] frzb_FRZB_1,4.72
+:frzb_FRZB_1,4.72 #0C0C0C
+chrd_CHRD_1,9.63 [1089] aplnr_APLNR,0.24
+:aplnr_APLNR,0.24 #1F1F1F
+gsc_GSC_A,5.06 [94] S10-marginal zone
+gsc_GSC_A,5.06 [17] S10-Spemann organizer (endoderm)
+fst_FST,0.58 [111] gsc_GSC_A,5.06
+:gsc_GSC_A,5.06 #404040
+chrd_CHRD_1,17.03 [19] S10-Spemann organizer (mesoderm)
+chrd_CHRD_1,17.03 [37] S10-Spemann organizer (mesoderm)
+fst_FST,0.58 [56] chrd_CHRD_1,17.03
+:chrd_CHRD_1,17.03 #191919
+chrd_CHRD_1,9.63 [167] fst_FST,0.58
+:fst_FST,0.58 #3C3C3C
+sox2_SOX2,1.23 [1256] chrd_CHRD_1,9.63
+:chrd_CHRD_1,9.63 #2C2C2C
+tfap2c_MGC68493,4.86 [232] S10-neuroectoderm
+tfap2c_MGC68493,4.86 [29] S10-non-neural ectoderm
+pcdh8_2_PCDH8_2,2.66 [261] tfap2c_MGC68493,4.86
+:tfap2c_MGC68493,4.86 #363636
+ccdc71_CCDC71,0.21 [24] S10-marginal zone
+ccdc71_CCDC71,0.21 [4] S10-Spemann organizer (mesoderm)
+pcdh8_2_PCDH8_2,2.66 [28] ccdc71_CCDC71,0.21
+:ccdc71_CCDC71,0.21 #2D2D2D
+t_T,4.04 [289] pcdh8_2_PCDH8_2,2.66
+:pcdh8_2_PCDH8_2,2.66 #3F3F3F
+t_T,9.71 [32] S10-neuroectoderm
+t_T,9.71 [16] S10-marginal zone
+vegt_VEGT,4.89 [48] t_T,9.71
+:t_T,9.71 #2A2A2A
+wdr5_WDR5,3.96 [120] S10-marginal zone
+wdr5_WDR5,3.96 [13] S10-neuroectoderm
+vegt_VEGT,4.89 [133] wdr5_WDR5,3.96
+:wdr5_WDR5,3.96 #1C1C1C
+t_T,4.04 [181] vegt_VEGT,4.89
+:vegt_VEGT,4.89 #252525
+sox2_SOX2,1.23 [470] t_T,4.04
+:t_T,4.04 #414141
+frzb2_FRZB2,1.2 [1726] sox2_SOX2,1.23
+:sox2_SOX2,1.23 #3B3B3B
+gsc_GSC_A,3.26 [41] S10-marginal zone
+gsc_GSC_A,3.26 [9] S10-Spemann organizer (endoderm)
+admp_ADMP,2.11 [50] gsc_GSC_A,3.26
+:gsc_GSC_A,3.26 #3B3B3B
+srd5a1_SRD5A1,1.88 [21] S10-Spemann organizer (endoderm)
+srd5a1_SRD5A1,1.88 [4] S10-Spemann organizer (mesoderm)
+admp_ADMP,2.11 [25] srd5a1_SRD5A1,1.88
+:srd5a1_SRD5A1,1.88 #1B1B1B
+frzb2_FRZB2,4.93 [75] admp_ADMP,2.11
+:admp_ADMP,2.11 #414141
+srpk1_SRPK1,3.33 [133] S10-Spemann organizer (endoderm)
+srpk1_SRPK1,3.33 [28] S10-Spemann organizer (endoderm)
+slc12a3_2_SLC12A3,1.12 [161] srpk1_SRPK1,3.33
+:srpk1_SRPK1,3.33 #1F1F1F
+tjp1_TJP1,1.39 [10] S10-endoderm
+tjp1_TJP1,1.39 [4] S10-Spemann organizer (endoderm)
+slc12a3_2_SLC12A3,1.12 [14] tjp1_TJP1,1.39
+:tjp1_TJP1,1.39 #2F2F2F
+frzb2_FRZB2,4.93 [175] slc12a3_2_SLC12A3,1.12
+:slc12a3_2_SLC12A3,1.12 #282828
+chrd_CHRD_1,16.06 [250] frzb2_FRZB2,4.93
+:frzb2_FRZB2,4.93 #373737
+lhx1_LHX1,9.49 [10] S10-Spemann organizer (endoderm)
+dhrs3_DHRS3,9.99 [8] S10-Spemann organizer (mesoderm)
+dhrs3_DHRS3,9.99 [2] S10-Spemann organizer (endoderm)
+lhx1_LHX1,9.49 [10] dhrs3_DHRS3,9.99
+:dhrs3_DHRS3,9.99 #1F1F1F
+c1qbp_like_LOC398432,0.3 [20] lhx1_LHX1,9.49
+:lhx1_LHX1,9.49 #292929
+slc35a3_2_SLC35A3_2,1.54 [16] S10-Spemann organizer (mesoderm)
+gid4_GID4,1.59 [1] S10-endoderm
+gid4_GID4,1.59 [1] S10-neuroectoderm
+slc35a3_2_SLC35A3_2,1.54 [2] gid4_GID4,1.59
+:gid4_GID4,1.59 #2A2A2A
+c1qbp_like_LOC398432,0.3 [18] slc35a3_2_SLC35A3_2,1.54
+:slc35a3_2_SLC35A3_2,1.54 #1A1A1A
+chrd_CHRD_1,16.06 [38] c1qbp_like_LOC398432,0.3
+:c1qbp_like_LOC398432,0.3 #343434
+frzb2_FRZB2,1.2 [288] chrd_CHRD_1,16.06
+:chrd_CHRD_1,16.06 #404040
+LOC100488209_MUC5B,3.21 [2014] frzb2_FRZB2,1.2
+:frzb2_FRZB2,1.2 #494949
+vegt_VEGT,4.19 [164] S10-non-neural ectoderm
+vegt_VEGT,4.19 [26] S10-marginal zone
+rnd1_RND1,3.08 [190] vegt_VEGT,4.19
+:vegt_VEGT,4.19 #474747
+snupn_SNUPN,4.37 [40] S10-marginal zone
+snupn_SNUPN,4.37 [4] S10-non-neural ectoderm
+rnd1_RND1,3.08 [44] snupn_SNUPN,4.37
+:snupn_SNUPN,4.37 #303030
+sox2_SOX2,0.66 [234] rnd1_RND1,3.08
+:rnd1_RND1,3.08 #505050
+foxi4_2_FOXI1,2.93 [1047] S10-neuroectoderm
+foxi4_2_FOXI1,2.93 [179] S10-neuroectoderm
+Xetrov90017050m_SPRR5,4.88 [1226] foxi4_2_FOXI1,2.93
+:foxi4_2_FOXI1,2.93 #1D1D1D
+ybx1_NSEP1,4.96 [23] S10-neuroectoderm
+ybx1_NSEP1,4.96 [113] S10-non-neural ectoderm
+Xetrov90017050m_SPRR5,4.88 [136] ybx1_NSEP1,4.96
+:ybx1_NSEP1,4.96 #353535
+sox2_SOX2,0.66 [1362] Xetrov90017050m_SPRR5,4.88
+:Xetrov90017050m_SPRR5,4.88 #232323
+tfap2a_TFAP2A,0.9 [1596] sox2_SOX2,0.66
+:sox2_SOX2,0.66 #2F2F2F
+Xetrov90017050m_SPRR5,5.63 [621] S10-neuroectoderm
+Xetrov90017050m_SPRR5,5.63 [59] S10-non-neural ectoderm
+gata2_GATA2,1.27 [680] Xetrov90017050m_SPRR5,5.63
+:Xetrov90017050m_SPRR5,5.63 #303030
+pcdh8_2_PCDH8_2,2.61 [250] S10-non-neural ectoderm
+pcdh8_2_PCDH8_2,2.61 [5] S10-marginal zone
+gata2_GATA2,1.27 [255] pcdh8_2_PCDH8_2,2.61
+:pcdh8_2_PCDH8_2,2.61 #1D1D1D
+foxi4_2_FOXI1,4.02 [935] gata2_GATA2,1.27
+:gata2_GATA2,1.27 #303030
+tfap2c_MGC68493,1.38 [64] S10-non-neural ectoderm
+tfap2c_MGC68493,1.38 [211] S10-non-neural ectoderm
+tfap2a_TFAP2A,3.07 [275] tfap2c_MGC68493,1.38
+:tfap2c_MGC68493,1.38 #1E1E1E
+sox2_SOX2,5.01 [451] S10-non-neural ectoderm
+sox2_SOX2,5.01 [92] S10-non-neural ectoderm
+tfap2a_TFAP2A,3.07 [543] sox2_SOX2,5.01
+:sox2_SOX2,5.01 #080808
+foxi4_2_FOXI1,4.02 [818] tfap2a_TFAP2A,3.07
+:tfap2a_TFAP2A,3.07 #111111
+tfap2a_TFAP2A,0.9 [1753] foxi4_2_FOXI1,4.02
+:foxi4_2_FOXI1,4.02 #272727
+t_T,2.22 [3349] tfap2a_TFAP2A,0.9
+:tfap2a_TFAP2A,0.9 #343434
+wnt8a_WNT8,0.24 [52] S10-marginal zone
+wnt8a_WNT8,0.24 [44] S10-marginal zone
+frzb2_FRZB2,1.94 [96] wnt8a_WNT8,0.24
+:wnt8a_WNT8,0.24 #363636
+atp6v0e1_ATP6V0E1,0.45 [3] S10-Spemann organizer (endoderm)
+atp6v0e1_ATP6V0E1,0.45 [2] S10-endoderm
+frzb2_FRZB2,1.94 [5] atp6v0e1_ATP6V0E1,0.45
+:atp6v0e1_ATP6V0E1,0.45 #3A3A3A
+sox3_SOX3,1.4 [101] frzb2_FRZB2,1.94
+:frzb2_FRZB2,1.94 #404040
+Xetrov90017050m_SPRR5,5.81 [128] S10-neuroectoderm
+Xetrov90017050m_SPRR5,5.81 [12] S10-marginal zone
+cyp26a1_CYP26A1,5.25 [140] Xetrov90017050m_SPRR5,5.81
+:Xetrov90017050m_SPRR5,5.81 #2C2C2C
+LOC100488209_MUC5B,8.27 [6] S10-marginal zone
+LOC100488209_MUC5B,8.27 [6] S10-non-neural ectoderm
+cyp26a1_CYP26A1,5.25 [12] LOC100488209_MUC5B,8.27
+:LOC100488209_MUC5B,8.27 #2A2A2A
+sox3_SOX3,1.4 [152] cyp26a1_CYP26A1,5.25
+:cyp26a1_CYP26A1,5.25 #333333
+vegt_VEGT,6.62 [253] sox3_SOX3,1.4
+:sox3_SOX3,1.4 #414141
+ankrd13c_ANKRD13C,3.52 [177] S10-marginal zone
+ankrd13c_ANKRD13C,3.52 [3] S10-neuroectoderm
+mst1r_MST1R,0.96 [180] ankrd13c_ANKRD13C,3.52
+:ankrd13c_ANKRD13C,3.52 #0B0B0B
+baf_l_BANF2,0.34 [5] S10-marginal zone
+baf_l_BANF2,0.34 [6] S10-neuroectoderm
+mst1r_MST1R,0.96 [11] baf_l_BANF2,0.34
+:baf_l_BANF2,0.34 #2A2A2A
+sox2_SOX2,2.49 [191] mst1r_MST1R,0.96
+:mst1r_MST1R,0.96 #101010
+unc119b_UNC119B_B,1.82 [32] S10-marginal zone
+unc119b_UNC119B_B,1.82 [17] S10-neuroectoderm
+t_T,9.08 [49] unc119b_UNC119B_B,1.82
+:unc119b_UNC119B_B,1.82 #282828
+hsph1_HSP110,3.64 [34] S10-marginal zone
+hsph1_HSP110,3.64 [4] S10-neuroectoderm
+t_T,9.08 [38] hsph1_HSP110,3.64
+:hsph1_HSP110,3.64 #151515
+sox2_SOX2,2.49 [87] t_T,9.08
+:t_T,9.08 #2A2A2A
+vegt_VEGT,6.62 [278] sox2_SOX2,2.49
+:sox2_SOX2,2.49 #1D1D1D
+t_T,2.22 [531] vegt_VEGT,6.62
+:vegt_VEGT,6.62 #353535
+LOC100488209_MUC5B,3.21 [3880] t_T,2.22
+:t_T,2.22 #3E3E3E
+:LOC100488209_MUC5B,3.21 #525252
+S10-neuroectoderm [1637] S12-neural plate
+S10-non-neural ectoderm [1697] ccno_TGAS135N06_1_001,1.26
+znf750_ZNF750,1.51 [1107] S12-non-neural ectoderm
+znf750_ZNF750,1.51 [19] S12-non-neural ectoderm
+klf5_KLF5,7.09 [1126] znf750_ZNF750,1.51
+:znf750_ZNF750,1.51 #0D0D0D
+foxj1_FOXJ1,0.28 [30] S12-non-neural ectoderm
+foxj1_FOXJ1,0.28 [8] S12-ciliated epidermal progenitor
+klf5_KLF5,7.09 [38] foxj1_FOXJ1,0.28
+:foxj1_FOXJ1,0.28 #494949
+Xetrov90011658m_NAG13,1.3 [1164] klf5_KLF5,7.09
+:klf5_KLF5,7.09 #111111
+bzw1_BZW1,6.08 [5] S12-ciliated epidermal progenitor
+bzw1_BZW1,6.08 [1] S12-non-neural ectoderm
+Xetrov90011658m_NAG13,1.3 [6] bzw1_BZW1,6.08
+:bzw1_BZW1,6.08 #373737
+Xetrov90024523m_TUBA1A,1.84 [1170] Xetrov90011658m_NAG13,1.3
+:Xetrov90011658m_NAG13,1.3 #131313
+ssrp1_SSRP1,2.77 [7] S12-ciliated epidermal progenitor
+ssrp1_SSRP1,2.77 [3] S12-non-neural ectoderm
+Xetrov90024523m_TUBA1A,1.84 [10] ssrp1_SSRP1,2.77
+:ssrp1_SSRP1,2.77 #4B4B4B
+foxi1_FOXI1E,2.93 [1180] Xetrov90024523m_TUBA1A,1.84
+:Xetrov90024523m_TUBA1A,1.84 #161616
+ctnnbl1_CTNNBL1,2.71 [21] S12-non-neural ectoderm
+ctnnbl1_CTNNBL1,2.71 [3] S12-ionocyte
+dll1_DLL1,6.16 [24] ctnnbl1_CTNNBL1,2.71
+:ctnnbl1_CTNNBL1,2.71 #434343
+dll1_DLL1,6.16 [6] S12-ionocyte
+churc1_CHURC1,1.52 [30] dll1_DLL1,6.16
+:dll1_DLL1,6.16 #5B5B5B
+churc1_CHURC1,1.52 [12] S12-ionocyte
+znf750_ZNF750,0.95 [42] churc1_CHURC1,1.52
+:churc1_CHURC1,1.52 #616161
+mpc1_MPC1,7.63 [46] S12-ionocyte
+mpc1_MPC1,7.63 [1] S12-non-neural ectoderm
+znf750_ZNF750,0.95 [47] mpc1_MPC1,7.63
+:mpc1_MPC1,7.63 #0D0D0D
+foxi1_FOXI1E,2.93 [89] znf750_ZNF750,0.95
+:znf750_ZNF750,0.95 #4A4A4A
+ccno_TGAS135N06_1_001,1.26 [1269] foxi1_FOXI1E,2.93
+:foxi1_FOXI1E,2.93 #2A2A2A
+ap2s1_AP2S1,2.09 [27] S12-non-neural ectoderm
+ap2s1_AP2S1,2.09 [2] S12-ionocyte
+dynll1_DYNLL2,6.35 [29] ap2s1_AP2S1,2.09
+:ap2s1_AP2S1,2.09 #1F1F1F
+dynll1_DYNLL2,6.35 [4] S12-ciliated epidermal progenitor
+foxj1_FOXJ1,2.01 [33] dynll1_DYNLL2,6.35
+:dynll1_DYNLL2,6.35 #484848
+ccno_TGAS135N06_1_001,2.15 [8] S12-non-neural ectoderm
+ccno_TGAS135N06_1_001,2.15 [40] S12-ciliated epidermal progenitor
+slc25a29_SLC25A29,1.11 [48] ccno_TGAS135N06_1_001,2.15
+:ccno_TGAS135N06_1_001,2.15 #3B3B3B
+gbx2_2_GBX2_2,1.03 [5] S12-non-neural ectoderm
+gbx2_2_GBX2_2,1.03 [1] S12-ionocyte
+slc25a29_SLC25A29,1.11 [6] gbx2_2_GBX2_2,1.03
+:gbx2_2_GBX2_2,1.03 #373737
+foxj1_FOXJ1,2.01 [54] slc25a29_SLC25A29,1.11
+:slc25a29_SLC25A29,1.11 #515151
+foxn4_FOXN4,1.06 [87] foxj1_FOXJ1,2.01
+:foxj1_FOXJ1,2.01 #646464
+foxn4_FOXN4,1.06 [37] S12-ciliated epidermal progenitor
+gadd45a_GADD45A,2.66 [124] foxn4_FOXN4,1.06
+:foxn4_FOXN4,1.06 #5B5B5B
+tango2_TEGG136J15_1_001,1.19 [281] S12-ciliated epidermal progenitor
+id2_ID2,0.66 [4] S12-non-neural ectoderm
+id2_ID2,0.66 [19] S12-ciliated epidermal progenitor
+tango2_TEGG136J15_1_001,1.19 [23] id2_ID2,0.66
+:id2_ID2,0.66 #393939
+gadd45a_GADD45A,2.66 [304] tango2_TEGG136J15_1_001,1.19
+:tango2_TEGG136J15_1_001,1.19 #090909
+ccno_TGAS135N06_1_001,1.26 [428] gadd45a_GADD45A,2.66
+:gadd45a_GADD45A,2.66 #2E2E2E
+:ccno_TGAS135N06_1_001,1.26 #5B5B5B
+S10-marginal zone [1912] LOC734001_LOC728026,52.43
+gapdh_GAPDH,2.27 [113] S12-involuted ventral mesoderm
+gapdh_GAPDH,2.27 [17] S12-involuted dorsal mesoderm
+msgn1_MSGN1,2.82 [130] gapdh_GAPDH,2.27
+:gapdh_GAPDH,2.27 #454545
+LOC100496636_like_C15ORF39,0.6 [29] S12-involuted dorsal mesoderm
+LOC100496636_like_C15ORF39,0.6 [2] S12-involuted ventral mesoderm
+msgn1_MSGN1,2.82 [31] LOC100496636_like_C15ORF39,0.6
+:LOC100496636_like_C15ORF39,0.6 #1D1D1D
+cdadc1_like_LOC100127602,2.88 [161] msgn1_MSGN1,2.82
+:msgn1_MSGN1,2.82 #545454
+Xetrov90027851m_Xetrov90027851m,3.34 [244] S12-involuted ventral mesoderm
+Xetrov90027851m_Xetrov90027851m,3.34 [40] S12-involuted ventral mesoderm
+sp5l_LOC398277,7.67 [284] Xetrov90027851m_Xetrov90027851m,3.34
+:Xetrov90027851m_Xetrov90027851m,3.34 #0E0E0E
+arhgdig_RG,4.71 [41] S12-involuted ventral mesoderm
+arhgdig_RG,4.71 [5] S12-involuted dorsal mesoderm
+sp5l_LOC398277,7.67 [46] arhgdig_RG,4.71
+:arhgdig_RG,4.71 #434343
+cdadc1_like_LOC100127602,2.88 [330] sp5l_LOC398277,7.67
+:sp5l_LOC398277,7.67 #1A1A1A
+wnt8a_WNT8,0.33 [491] cdadc1_like_LOC100127602,2.88
+:cdadc1_like_LOC100127602,2.88 #363636
+Xetrov90002209m_RCL1,1.46 [18] S12-involuted dorsal mesoderm
+Xetrov90002209m_RCL1,1.46 [7] S12-involuted ventral mesoderm
+msgn1_MSGN1,1.69 [25] Xetrov90002209m_RCL1,1.46
+:Xetrov90002209m_RCL1,1.46 #535353
+LOC100158464_PSMC4,1.39 [106] S12-involuted dorsal mesoderm
+LOC100158464_PSMC4,1.39 [6] S12-involuted dorsal mesoderm
+msgn1_MSGN1,1.69 [112] LOC100158464_PSMC4,1.39
+:LOC100158464_PSMC4,1.39 #151515
+cebpd_X_C_EBP_DELTA_1,2.63 [137] msgn1_MSGN1,1.69
+:msgn1_MSGN1,1.69 #2C2C2C
+cebpd_X_C_EBP_DELTA_1,2.63 [11] S12-involuted ventral mesoderm
+wnt8a_WNT8,0.33 [148] cebpd_X_C_EBP_DELTA_1,2.63
+:cebpd_X_C_EBP_DELTA_1,2.63 #3B3B3B
+eef1a1o_EEF1AO,34.08 [639] wnt8a_WNT8,0.33
+:wnt8a_WNT8,0.33 #4E4E4E
+cfd_AMI,2.69 [244] S12-involuted dorsal mesoderm
+cfd_AMI,2.69 [19] S12-involuted ventral mesoderm
+darmin_DARMIN,0.65 [263] cfd_AMI,2.69
+:cfd_AMI,2.69 #4E4E4E
+msgn1_MSGN1,2.7 [40] S12-involuted ventral mesoderm
+msgn1_MSGN1,2.7 [9] S12-involuted dorsal mesoderm
+darmin_DARMIN,0.65 [49] msgn1_MSGN1,2.7
+:msgn1_MSGN1,2.7 #323232
+t_T,7.07 [312] darmin_DARMIN,0.65
+:darmin_DARMIN,0.65 #5B5B5B
+pcdh8_2_PCDH8_2,3.63 [56] S12-tail bud
+pcdh8_2_PCDH8_2,3.63 [13] S12-involuted dorsal mesoderm
+foxc1_FOXC1,2.75 [69] pcdh8_2_PCDH8_2,3.63
+:pcdh8_2_PCDH8_2,3.63 #595959
+atp6v1f_MGC68592,2.0 [19] S12-involuted dorsal mesoderm
+atp6v1f_MGC68592,2.0 [1] S12-involuted ventral mesoderm
+foxc1_FOXC1,2.75 [20] atp6v1f_MGC68592,2.0
+:atp6v1f_MGC68592,2.0 #181818
+t_T,7.07 [89] foxc1_FOXC1,2.75
+:foxc1_FOXC1,2.75 #646464
+gapdh_GAPDH,0.26 [401] t_T,7.07
+:t_T,7.07 #707070
+clpp_LOC496087,1.71 [271] S12-involuted dorsal mesoderm
+clpp_LOC496087,1.71 [4] S12-involuted dorsal mesoderm
+dhrs3_DHRS3,1.27 [275] clpp_LOC496087,1.71
+:clpp_LOC496087,1.71 #060606
+rpl13_RPL13,2.99 [13] S12-involuted dorsal mesoderm
+rpl13_RPL13,2.99 [41] S12-involuted dorsal mesoderm
+dhrs3_DHRS3,1.27 [54] rpl13_RPL13,2.99
+:rpl13_RPL13,2.99 #3E3E3E
+hkdc1_LOC100493823,0.98 [329] dhrs3_DHRS3,1.27
+:dhrs3_DHRS3,1.27 #131313
+hkdc1_LOC100493823,0.98 [3] S12-tail bud
+gapdh_GAPDH,0.26 [332] hkdc1_LOC100493823,0.98
+:hkdc1_LOC100493823,0.98 #181818
+eef1a1o_EEF1AO,34.08 [733] gapdh_GAPDH,0.26
+:gapdh_GAPDH,0.26 #535353
+LOC734001_LOC728026,52.43 [1372] eef1a1o_EEF1AO,34.08
+:eef1a1o_EEF1AO,34.08 #676767
+fxr1_FXR1,0.6 [8] S12-involuted ventral mesoderm
+fxr1_FXR1,0.6 [13] S12-involuted dorsal mesoderm
+cdadc1_like_LOC100127602,0.79 [21] fxr1_FXR1,0.6
+:fxr1_FXR1,0.6 #555555
+kcnb2_KCNB2,1.82 [27] S12-involuted ventral mesoderm
+kcnb2_KCNB2,1.82 [1] S12-involuted dorsal mesoderm
+cdadc1_like_LOC100127602,0.79 [28] kcnb2_KCNB2,1.82
+:kcnb2_KCNB2,1.82 #131313
+ngfr_LOC398134,2.58 [49] cdadc1_like_LOC100127602,0.79
+:cdadc1_like_LOC100127602,0.79 #444444
+kdm5c_KDM5C,1.77 [5] S12-involuted dorsal mesoderm
+kdm5c_KDM5C,1.77 [3] S12-tail bud
+ngfr_LOC398134,2.58 [8] kdm5c_KDM5C,1.77
+:kdm5c_KDM5C,1.77 #515151
+t_T,0.82 [57] ngfr_LOC398134,2.58
+:ngfr_LOC398134,2.58 #626262
+rpl22_RPL22,1.36 [12] S12-involuted dorsal mesoderm
+rpl22_RPL22,1.36 [20] S12-tail bud
+ell2_ELL2,2.1 [32] rpl22_RPL22,1.36
+:rpl22_RPL22,1.36 #545454
+rpl23_RPL23,1.29 [1] S12-involuted ventral mesoderm
+rpl23_RPL23,1.29 [16] S12-tail bud
+ell2_ELL2,2.1 [17] rpl23_RPL23,1.29
+:rpl23_RPL23,1.29 #1B1B1B
+fn1_FN1,4.68 [49] ell2_ELL2,2.1
+:ell2_ELL2,2.1 #5C5C5C
+LOC100489101_PIFO,0.84 [20] S12-involuted dorsal mesoderm
+LOC100489101_PIFO,0.84 [1] S12-involuted ventral mesoderm
+fn1_FN1,4.68 [21] LOC100489101_PIFO,0.84
+:LOC100489101_PIFO,0.84 #171717
+t_T,0.82 [70] fn1_FN1,4.68
+:fn1_FN1,4.68 #626262
+cdx4_XCAD2,0.32 [127] t_T,0.82
+:t_T,0.82 #848484
+msgn1_MSGN1,1.13 [113] S12-tail bud
+msgn1_MSGN1,1.13 [20] S12-involuted dorsal mesoderm
+hal_1_HAL_1,3.24 [133] msgn1_MSGN1,1.13
+:msgn1_MSGN1,1.13 #2F2F2F
+hal_1_HAL_1,3.24 [3] S12-involuted ventral mesoderm
+cdx1_CDX1,2.56 [136] hal_1_HAL_1,3.24
+:hal_1_HAL_1,3.24 #3B3B3B
+cdx1_CDX1,2.56 [237] S12-tail bud
+pcdh8_2_PCDH8_2,1.26 [373] cdx1_CDX1,2.56
+:cdx1_CDX1,2.56 #1C1C1C
+ube2q2_UBE2Q2,3.91 [22] S12-involuted dorsal mesoderm
+dpy30_DPY30,4.88 [3] S12-involuted ventral mesoderm
+dpy30_DPY30,4.88 [2] S12-tail bud
+ube2q2_UBE2Q2,3.91 [5] dpy30_DPY30,4.88
+:dpy30_DPY30,4.88 #818181
+sp1_SP1,0.71 [27] ube2q2_UBE2Q2,3.91
+:ube2q2_UBE2Q2,3.91 #404040
+tmed2_TMED2,2.03 [10] S12-tail bud
+tmed2_TMED2,2.03 [3] S12-involuted dorsal mesoderm
+sp1_SP1,0.71 [13] tmed2_TMED2,2.03
+:tmed2_TMED2,2.03 #424242
+pcdh8_2_PCDH8_2,1.26 [40] sp1_SP1,0.71
+:sp1_SP1,0.71 #616161
+cdx4_XCAD2,0.32 [413] pcdh8_2_PCDH8_2,1.26
+:pcdh8_2_PCDH8_2,1.26 #313131
+LOC734001_LOC728026,52.43 [540] cdx4_XCAD2,0.32
+:cdx4_XCAD2,0.32 #5B5B5B
+:LOC734001_LOC728026,52.43 #838383
+S10-Spemann organizer (mesoderm) [36] S12-notochord
+S10-Spemann organizer (endoderm) [39] S12-Spemann organizer (endoderm)
+S10-endoderm [66] S12-endoderm
+S12-neural plate [1171] snai2_SNAI2,0.87
+zic1_ZIC1,0.73 [147] S14-eye primordium
+zic1_ZIC1,0.73 [98] S14-anterior neural plate - fezf1
+irx3_IRX3,0.15 [245] zic1_ZIC1,0.73
+:zic1_ZIC1,0.73 #545454
+cdx4_XCAD2,1.86 [159] S14-chordal neural plate
+cdx4_XCAD2,1.86 [23] S14-chordal neural plate border
+irx3_IRX3,0.15 [182] cdx4_XCAD2,1.86
+:cdx4_XCAD2,1.86 #272727
+col2a1_COL2A1,2.43 [427] irx3_IRX3,0.15
+:irx3_IRX3,0.15 #4B4B4B
+tm9sf4_LOC733272,5.24 [47] S14-notoplate
+tm9sf4_LOC733272,5.24 [2] S14-anterior neural plate - nkx2-1/nkx2-4
+nat10_NAT10,0.83 [49] tm9sf4_LOC733272,5.24
+:tm9sf4_LOC733272,5.24 #0C0C0C
+metrnl_METRNL,0.18 [1] S14-chordal neural plate
+metrnl_METRNL,0.18 [2] S14-anterior neural plate - fezf1
+nat10_NAT10,0.83 [3] metrnl_METRNL,0.18
+:metrnl_METRNL,0.18 #333333
+col2a1_COL2A1,2.43 [52] nat10_NAT10,0.83
+:nat10_NAT10,0.83 #191919
+rax_RAX_A,0.55 [479] col2a1_COL2A1,2.43
+:col2a1_COL2A1,2.43 #515151
+rasal2_like_2_RASAL2,1.38 [180] S14-eye primordium
+rasal2_like_2_RASAL2,1.38 [19] S14-anterior neural plate - fezf1
+dmrta1_DMRT4,0.19 [199] rasal2_like_2_RASAL2,1.38
+:rasal2_like_2_RASAL2,1.38 #141414
+aldh3b1_like_1_ALDH3B1,0.51 [10] S14-anterior neural plate - fezf1
+aldh3b1_like_1_ALDH3B1,0.51 [1] S14-eye primordium
+dmrta1_DMRT4,0.19 [11] aldh3b1_like_1_ALDH3B1,0.51
+:aldh3b1_like_1_ALDH3B1,0.51 #0E0E0E
+nkx2_1_NKX2_1,3.42 [210] dmrta1_DMRT4,0.19
+:dmrta1_DMRT4,0.19 #191919
+nkx2_1_NKX2_1,3.42 [10] S14-anterior neural plate - nkx2-1/nkx2-4
+rax_RAX_A,0.55 [220] nkx2_1_NKX2_1,3.42
+:nkx2_1_NKX2_1,3.42 #1F1F1F
+neurog1_NEUROG1,0.6 [699] rax_RAX_A,0.55
+:rax_RAX_A,0.55 #505050
+LOC100124991_CBARP,0.61 [3] S14-eye primordium
+LOC100124991_CBARP,0.61 [2] S14-chordal neural plate
+gadd45g_MGC53682,1.0 [5] LOC100124991_CBARP,0.61
+:LOC100124991_CBARP,0.61 #313131
+yaf2_YAF2,0.72 [26] S14-early neuron
+yaf2_YAF2,0.72 [3] S14-chordal neural plate border
+gadd45g_MGC53682,1.0 [29] yaf2_YAF2,0.72
+:yaf2_YAF2,0.72 #121212
+LOC100490491_like_SERPINH1,4.94 [34] gadd45g_MGC53682,1.0
+:gadd45g_MGC53682,1.0 #282828
+josd1_JOSD1,0.14 [2] S14-anterior neural plate - fezf1
+josd1_JOSD1,0.14 [2] S14-notoplate
+mphosph9_LOC443686,0.64 [4] josd1_JOSD1,0.14
+:josd1_JOSD1,0.14 #303030
+mphosph9_LOC443686,0.64 [8] S14-chordal neural plate border
+LOC100490491_like_SERPINH1,4.94 [12] mphosph9_LOC443686,0.64
+:mphosph9_LOC443686,0.64 #2D2D2D
+tubb3_TUBB3,0.38 [46] LOC100490491_like_SERPINH1,4.94
+:LOC100490491_like_SERPINH1,4.94 #3A3A3A
+tubb3_TUBB3,0.38 [97] S14-early neuron
+neurog1_NEUROG1,0.6 [143] tubb3_TUBB3,0.38
+:tubb3_TUBB3,0.38 #1B1B1B
+snai2_SNAI2,0.87 [842] neurog1_NEUROG1,0.6
+:neurog1_NEUROG1,0.6 #535353
+nufip1_LOC733255,0.78 [9] S14-chordal neural plate
+emc6_EMC6,0.33 [2] S14-eye primordium
+emc6_EMC6,0.33 [2] S14-neural crest
+nufip1_LOC733255,0.78 [4] emc6_EMC6,0.33
+:emc6_EMC6,0.33 #202020
+MGC76254_MYC_A,0.9 [13] nufip1_LOC733255,0.78
+:nufip1_LOC733255,0.78 #262626
+tdp2_TDP2,1.08 [27] S14-neural crest
+tdp2_TDP2,1.08 [1] S14-chordal neural plate
+MGC76254_MYC_A,0.9 [28] tdp2_TDP2,1.08
+:tdp2_TDP2,1.08 #070707
+nfe2l3_NFE2L3,0.51 [41] MGC76254_MYC_A,0.9
+:MGC76254_MYC_A,0.9 #222222
+gtf2ird1_like_GTF2IRD1,0.24 [4] S14-early neuron
+gtf2ird1_like_GTF2IRD1,0.24 [2] S14-anterior neural plate - fezf1
+nfe2l3_NFE2L3,0.51 [6] gtf2ird1_like_GTF2IRD1,0.24
+:gtf2ird1_like_GTF2IRD1,0.24 #1D1D1D
+snai2_SNAI2,1.76 [47] nfe2l3_NFE2L3,0.51
+:nfe2l3_NFE2L3,0.51 #333333
+Xetrov90008797m_FAM227B,0.65 [280] S14-neural crest
+LOC101731651_CCDC77,0.33 [1] S14-anterior neural plate - fezf1
+LOC101731651_CCDC77,0.33 [1] S14-chordal neural plate
+Xetrov90008797m_FAM227B,0.65 [2] LOC101731651_CCDC77,0.33
+:LOC101731651_CCDC77,0.33 #202020
+snai2_SNAI2,1.76 [282] Xetrov90008797m_FAM227B,0.65
+:Xetrov90008797m_FAM227B,0.65 #020202
+snai2_SNAI2,0.87 [329] snai2_SNAI2,1.76
+:snai2_SNAI2,1.76 #0E0E0E
+:snai2_SNAI2,0.87 #545454
+S12-non-neural ectoderm [1306] Xetrov90010125m_MGC64293,17.1
+cdx2_XCAD_1,0.96 [285] S14-posterior placodal area
+cdx2_XCAD_1,0.96 [32] S14-epidermal - collagen
+chga_TGAS081I01_1_001,5.78 [317] cdx2_XCAD_1,0.96
+:cdx2_XCAD_1,0.96 #2D2D2D
+chga_TGAS081I01_1_001,5.78 [15] S14-neuroendocrine cell
+pitx1_PITX1,0.85 [332] chga_TGAS081I01_1_001,5.78
+:chga_TGAS081I01_1_001,5.78 #323232
+dcps_DCPS,0.64 [25] S14-anterior placodal area
+dcps_DCPS,0.64 [5] S14-posterior placodal area
+gata2_GATA2,4.48 [30] dcps_DCPS,0.64
+:dcps_DCPS,0.64 #101010
+znf750_ZNF750,0.49 [34] S14-cement gland primordium
+znf750_ZNF750,0.49 [32] S14-cement gland primordium
+gata2_GATA2,4.48 [66] znf750_ZNF750,0.49
+:znf750_ZNF750,0.49 #202020
+pitx1_PITX1,0.85 [96] gata2_GATA2,4.48
+:gata2_GATA2,4.48 #282828
+pax6_PAX_6,0.81 [428] pitx1_PITX1,0.85
+:pitx1_PITX1,0.85 #3B3B3B
+Xetrov90023392m_TNP,0.53 [95] S14-anterior placodal area
+endod1_ENDOD1,0.33 [1] S14-cement gland primordium
+endod1_ENDOD1,0.33 [1] S14-epidermal - ctbs
+Xetrov90023392m_TNP,0.53 [2] endod1_ENDOD1,0.33
+:endod1_ENDOD1,0.33 #1C1C1C
+pax6_PAX_6,0.81 [97] Xetrov90023392m_TNP,0.53
+:Xetrov90023392m_TNP,0.53 #050505
+Xetrov90024133m_Xetrov90024133m,1.82 [525] pax6_PAX_6,0.81
+:pax6_PAX_6,0.81 #3C3C3C
+vcp_VCP,1.78 [3] S14-anterior placodal area
+vcp_VCP,1.78 [2] S14-posterior placodal area
+foxa1_FOXA1,4.48 [5] vcp_VCP,1.78
+:vcp_VCP,1.78 #1C1C1C
+dlat_LOC398314,3.51 [46] S14-small secretory cells
+lsm4_LSM4,1.88 [1] S14-epidermal - collagen
+lsm4_LSM4,1.88 [1] S14-posterior placodal area
+dlat_LOC398314,3.51 [2] lsm4_LSM4,1.88
+:lsm4_LSM4,1.88 #1C1C1C
+foxa1_FOXA1,4.48 [48] dlat_LOC398314,3.51
+:dlat_LOC398314,3.51 #080808
+krt5_7_KRT5_7,56.6 [53] foxa1_FOXA1,4.48
+:foxa1_FOXA1,4.48 #151515
+LOC101734297_like_LOC494813,0.3 [13] S14-cement gland primordium
+LOC101734297_like_LOC494813,0.3 [11] S14-hatching gland
+LOC394967_LOC394967,12.04 [24] LOC101734297_like_LOC494813,0.3
+:LOC101734297_like_LOC494813,0.3 #1C1C1C
+LOC394967_LOC394967,12.04 [47] S14-goblet cell
+krt5_7_KRT5_7,56.6 [71] LOC394967_LOC394967,12.04
+:LOC394967_LOC394967,12.04 #242424
+Xetrov90024133m_Xetrov90024133m,1.82 [124] krt5_7_KRT5_7,56.6
+:krt5_7_KRT5_7,56.6 #393939
+Xetrov90010125m_MGC64293,17.1 [649] Xetrov90024133m_Xetrov90024133m,1.82
+:Xetrov90024133m_Xetrov90024133m,1.82 #494949
+actb_ACTB,29.0 [9] S14-epidermal - collagen
+actb_ACTB,29.0 [14] S14-epidermal - ctbs
+sox11_SOX11,0.74 [23] actb_ACTB,29.0
+:actb_ACTB,29.0 #272727
+c9_C9_PROV,0.95 [13] S14-epidermal - ctbs
+c9_C9_PROV,0.95 [28] S14-posterior placodal area
+sox11_SOX11,0.74 [41] c9_C9_PROV,0.95
+:c9_C9_PROV,0.95 #1C1C1C
+klf6_LOC446965,2.28 [64] sox11_SOX11,0.74
+:sox11_SOX11,0.74 #2F2F2F
+tra2b_LOC443599,0.13 [62] S14-epidermal - ctbs
+tra2b_LOC443599,0.13 [220] S14-epidermal - ctbs
+apoc1_like_APOC1,2.79 [282] tra2b_LOC443599,0.13
+:tra2b_LOC443599,0.13 #0F0F0F
+mettl1_METTL1_A,1.18 [16] S14-epidermal - collagen
+mettl1_METTL1_A,1.18 [2] S14-anterior placodal area
+apoc1_like_APOC1,2.79 [18] mettl1_METTL1_A,1.18
+:mettl1_METTL1_A,1.18 #111111
+klf6_LOC446965,2.28 [300] apoc1_like_APOC1,2.79
+:apoc1_like_APOC1,2.79 #141414
+myb_MYB,1.95 [364] klf6_LOC446965,2.28
+:klf6_LOC446965,2.28 #202020
+mcm9_like_MCM9,0.82 [52] S14-small secretory cells
+myo5b_MYO5B,1.32 [1] S14-goblet cell
+myo5b_MYO5B,1.32 [1] S14-epidermal - ctbs
+mcm9_like_MCM9,0.82 [2] myo5b_MYO5B,1.32
+:myo5b_MYO5B,1.32 #1C1C1C
+itga3_ITGA3,2.86 [54] mcm9_like_MCM9,0.82
+:mcm9_like_MCM9,0.82 #080808
+LOC100497361_like_MED15,1.04 [4] S14-epidermal - collagen
+LOC100497361_like_MED15,1.04 [2] S14-small secretory cells
+acsl1_ACSL1,2.21 [6] LOC100497361_like_MED15,1.04
+:LOC100497361_like_MED15,1.04 #1A1A1A
+acsl1_ACSL1,2.21 [5] S14-epidermal - ctbs
+itga3_ITGA3,2.86 [11] acsl1_ACSL1,2.21
+:acsl1_ACSL1,2.21 #2A2A2A
+myb_MYB,1.95 [65] itga3_ITGA3,2.86
+:itga3_ITGA3,2.86 #191919
+krt18_KRT18,5.23 [429] myb_MYB,1.95
+:myb_MYB,1.95 #2C2C2C
+stt3a_STT3A,2.96 [15] S14-posterior placodal area
+stt3a_STT3A,2.96 [2] S14-cement gland primordium
+sun1_LOC733164,0.29 [17] stt3a_STT3A,2.96
+:stt3a_STT3A,2.96 #0F0F0F
+tfap2c_MGC68493,1.15 [1] S14-epidermal - collagen
+tfap2c_MGC68493,1.15 [3] S14-anterior placodal area
+sun1_LOC733164,0.29 [4] tfap2c_MGC68493,1.15
+:tfap2c_MGC68493,1.15 #171717
+ngfr_LOC398134,2.47 [21] sun1_LOC733164,0.29
+:sun1_LOC733164,0.29 #242424
+ngfr_LOC398134,2.47 [7] S14-epidermal - collagen
+flna_FLNA,2.59 [28] ngfr_LOC398134,2.47
+:ngfr_LOC398134,2.47 #2E2E2E
+ube2a_UBE2A,1.78 [57] S14-epidermal - collagen
+ube2a_UBE2A,1.78 [3] S14-anterior placodal area
+ctbs_CTBS,15.15 [60] ube2a_UBE2A,1.78
+:ube2a_UBE2A,1.78 #161616
+ssr4_like_LOC100170417,7.84 [14] S14-epidermal - ctbs
+ssr4_like_LOC100170417,7.84 [15] S14-epidermal - collagen
+ctbs_CTBS,15.15 [29] ssr4_like_LOC100170417,7.84
+:ssr4_like_LOC100170417,7.84 #1F1F1F
+apoc1_like_APOC1,1.52 [89] ctbs_CTBS,15.15
+:ctbs_CTBS,15.15 #212121
+ift122_IFT122,1.12 [105] S14-epidermal - collagen
+ift122_IFT122,1.12 [2] S14-posterior placodal area
+pax8_PAX8,2.66 [107] ift122_IFT122,1.12
+:ift122_IFT122,1.12 #060606
+pax8_PAX8,2.66 [4] S14-posterior placodal area
+apoc1_like_APOC1,1.52 [111] pax8_PAX8,2.66
+:pax8_PAX8,2.66 #0B0B0B
+flna_FLNA,2.59 [200] apoc1_like_APOC1,1.52
+:apoc1_like_APOC1,1.52 #1A1A1A
+krt18_KRT18,5.23 [228] flna_FLNA,2.59
+:flna_FLNA,2.59 #222222
+Xetrov90010125m_MGC64293,17.1 [657] krt18_KRT18,5.23
+:krt18_KRT18,5.23 #333333
+:Xetrov90010125m_MGC64293,17.1 #4C4C4C
+S12-ciliated epidermal progenitor [180] S14-ciliated epidermal progenitor
+S12-ionocyte [60] S14-ionocyte
+S12-notochord [76] S14-notochord
+S12-involuted dorsal mesoderm [803] actc1_ACTC1,22.48
+fbxo45_FBXO45,1.98 [244] S14-intermediate mesoderm
+fbxo45_FBXO45,1.98 [4] S14-presomitic mesoderm
+cdx4_XCAD2,1.29 [248] fbxo45_FBXO45,1.98
+:fbxo45_FBXO45,1.98 #0E0E0E
+ythdf2_like_YTHDF2,2.56 [28] S14-intermediate mesoderm
+ythdf2_like_YTHDF2,2.56 [11] S14-presomitic mesoderm
+cdx4_XCAD2,1.29 [39] ythdf2_like_YTHDF2,2.56
+:ythdf2_like_YTHDF2,2.56 #3C3C3C
+actc1_ACTC1,6.02 [287] cdx4_XCAD2,1.29
+:cdx4_XCAD2,1.29 #1B1B1B
+yipf5_YIPF5,0.34 [5] S14-presomitic mesoderm
+yipf5_YIPF5,0.34 [3] S14-somite
+krt18_KRT18,2.1 [8] yipf5_YIPF5,0.34
+:yipf5_YIPF5,0.34 #535353
+rps15a_RPS15A,5.69 [5] S14-intermediate mesoderm
+rps15a_RPS15A,5.69 [12] S14-intermediate mesoderm -ssg1
+krt18_KRT18,2.1 [17] rps15a_RPS15A,5.69
+:rps15a_RPS15A,5.69 #323232
+actc1_ACTC1,6.02 [25] krt18_KRT18,2.1
+:krt18_KRT18,2.1 #696969
+sp5l_LOC398277,3.06 [312] actc1_ACTC1,6.02
+:actc1_ACTC1,6.02 #2F2F2F
+map4k3_MAP4K3,1.79 [19] S14-presomitic mesoderm
+map4k3_MAP4K3,1.79 [7] S14-intermediate mesoderm
+myl1_MYL1,1.67 [26] map4k3_MAP4K3,1.79
+:map4k3_MAP4K3,1.79 #4B4B4B
+myl1_MYL1,1.67 [5] S14-intermediate mesoderm -ssg1
+hes6_1_HES6_1,0.67 [31] myl1_MYL1,1.67
+:myl1_MYL1,1.67 #5F5F5F
+ntn1_like_1_LOC100127305,0.75 [34] S14-presomitic mesoderm
+uba52_UBA52,13.28 [2] S14-presomitic mesoderm
+uba52_UBA52,13.28 [5] S14-somite
+ntn1_like_1_LOC100127305,0.75 [7] uba52_UBA52,13.28
+:uba52_UBA52,13.28 #373737
+hes6_1_HES6_1,0.67 [41] ntn1_like_1_LOC100127305,0.75
+:ntn1_like_1_LOC100127305,0.75 #222222
+sp5l_LOC398277,3.06 [72] hes6_1_HES6_1,0.67
+:hes6_1_HES6_1,0.67 #545454
+hoxc10_HOXC10,0.93 [384] sp5l_LOC398277,3.06
+:sp5l_LOC398277,3.06 #494949
+gucy1a3_like_GUCY1A3,1.53 [179] S14-presomitic mesoderm
+gucy1a3_like_GUCY1A3,1.53 [1] S14-somite
+scap_SCAP,1.02 [180] gucy1a3_like_GUCY1A3,1.53
+:gucy1a3_like_GUCY1A3,1.53 #030303
+LOC100494853_MTHFD1,0.35 [2] S14-presomitic mesoderm
+LOC100494853_MTHFD1,0.35 [3] S14-somite
+scap_SCAP,1.02 [5] LOC100494853_MTHFD1,0.35
+:LOC100494853_MTHFD1,0.35 #3E3E3E
+LOC100487763_MGC68456,3.68 [185] scap_SCAP,1.02
+:scap_SCAP,1.02 #0A0A0A
+LOC100487763_MGC68456,3.68 [3] S14-intermediate mesoderm
+hoxc10_HOXC10,0.93 [188] LOC100487763_MGC68456,3.68
+:LOC100487763_MGC68456,3.68 #111111
+actc1_ACTC1,22.48 [572] hoxc10_HOXC10,0.93
+:hoxc10_HOXC10,0.93 #545454
+nadsyn1_NADSYN1,1.14 [216] S14-somite
+nadsyn1_NADSYN1,1.14 [2] S14-presomitic mesoderm
+vim_VIM4,1.63 [218] nadsyn1_NADSYN1,1.14
+:nadsyn1_NADSYN1,1.14 #050505
+smyd1_SMYD1,0.58 [7] S14-intermediate mesoderm -ssg1
+smyd1_SMYD1,0.58 [6] S14-somite
+vim_VIM4,1.63 [13] smyd1_SMYD1,0.58
+:smyd1_SMYD1,0.58 #3F3F3F
+actc1_ACTC1,22.48 [231] vim_VIM4,1.63
+:vim_VIM4,1.63 #111111
+:actc1_ACTC1,22.48 #707070
+S12-tail bud [211] S14-tail bud
+S12-involuted ventral mesoderm [452] mpo_MPO_A,5.61
+hspa5_LOC397850,3.53 [332] S14-lateral plate mesoderm
+rars2_RARS2,0.78 [4] S14-migrating myeloid progenitors
+rars2_RARS2,0.78 [1] S14-lateral plate mesoderm
+Xetrov90027395m_Xetrov90027395m,4.62 [5] rars2_RARS2,0.78
+:rars2_RARS2,0.78 #5C5C5C
+Xetrov90027395m_Xetrov90027395m,4.62 [18] S14-lateral plate mesoderm
+hspa5_LOC397850,3.53 [23] Xetrov90027395m_Xetrov90027395m,4.62
+:Xetrov90027395m_Xetrov90027395m,4.62 #555555
+Xetrov90010663m_Xetrov90010663m,0.86 [355] hspa5_LOC397850,3.53
+:hspa5_LOC397850,3.53 #0B0B0B
+atp5h_ATP5H,1.77 [6] S14-migrating myeloid progenitors
+atp5h_ATP5H,1.77 [3] S14-lateral plate mesoderm
+Xetrov90010663m_Xetrov90010663m,0.86 [9] atp5h_ATP5H,1.77
+:atp5h_ATP5H,1.77 #757575
+mpo_MPO_A,5.61 [364] Xetrov90010663m_Xetrov90010663m,0.86
+:Xetrov90010663m_Xetrov90010663m,0.86 #171717
+thy1_THY1,0.52 [6] S14-migrating myeloid progenitors
+thy1_THY1,0.52 [5] S14-lateral plate mesoderm
+spib_SPIB,0.26 [11] thy1_THY1,0.52
+:thy1_THY1,0.52 #7F7F7F
+spib_SPIB,0.26 [77] S14-migrating myeloid progenitors
+mpo_MPO_A,5.61 [88] spib_SPIB,0.26
+:spib_SPIB,0.26 #282828
+:mpo_MPO_A,5.61 #5D5D5D
+S12-Spemann organizer (endoderm) [65] S14-Spemann organizer (endoderm)
+S12-endoderm [26] S14-endoderm
+:S10-neuroectoderm #AC9166
+:S10-non-neural ectoderm #CB40DB
+:S10-marginal zone #32FC44
+:S10-Spemann organizer (mesoderm) #42E325
+:S10-Spemann organizer (endoderm) #815F41
+:S10-endoderm #17E6EB
+:S12-non-neural ectoderm #FA4726
+:S12-ciliated epidermal progenitor #F5947B
+:S12-ionocyte #DBB8A2
+:S12-involuted dorsal mesoderm #5BD68D
+:S12-tail bud #D43C0B
+:S12-involuted ventral mesoderm #A8FC33
+:S14-neural crest #15041E
+:S14-early neuron #45B10C
+:S14-chordal neural plate #96ED86
+:S14-notoplate #EBFBE2
+:S14-eye primordium #B977AD
+:S14-anterior neural plate - nkx2-1/nkx2-4 #4C7CA6
+:S14-anterior neural plate - fezf1 #6B00E0
+:S14-chordal neural plate border #DF4A16
+:S14-goblet cell #7932B8
+:S14-anterior placodal area #B87FE7
+:S14-epidermal - ctbs #950FBD
+:S14-epidermal - collagen #A956D8
+:S14-hatching gland #C64402
+:S14-posterior placodal area #EDA227
+:S14-cement gland primordium #B3CC23
+:S14-small secretory cells #80DB78
+:S14-neuroendocrine cell #A9E0DB
+:S14-presomitic mesoderm #6C8236
+:S14-intermediate mesoderm #76E016
+:S14-somite #39EE58
+:S14-intermediate mesoderm -ssg1 #3B5BC4
+:S14-lateral plate mesoderm #57A3B1
+:S14-migrating myeloid progenitors #EF1567

@@ -1,0 +1,280 @@
+2	S08-blastula
+3	MUC5B,3.21
+4	sox11,4.25
+5	S10-marginal zone
+6	aplnr,0.24
+7	frzb,4.72
+8	chrd,9.63
+9	gsc,5.06
+10	S10-Spemann organizer (endoderm)
+11	fst,0.58
+12	chrd,17.03
+13	S10-Spemann organizer (mesoderm)
+14	sox2,1.23
+15	tfap2c,4.86
+16	S10-neuroectoderm
+17	S10-non-neural ectoderm
+18	pcdh8_1,2.66
+19	ccdc71,0.21
+20	t_T,4.04
+21	t_T,9.71
+22	vegt,4.89
+23	wdr5,3.96
+24	frzb2,1.2
+25	gsc,3.26
+26	admp,2.11
+27	srd5a1,1.88
+28	frzb2,4.93
+29	srpk1,3.33
+30	slc12a3_1,1.12
+31	tjp1,1.39
+32	S10-endoderm
+33	chrd,16.06
+34	lhx1,9.49
+35	birc6_1,2.87
+36	c1qbp,0.3
+37	LOC495678,0.79
+38	arhgef11,0.8
+39	vegt,4.19
+40	rnd1,3.08
+41	snupn,4.37
+42	sox2,0.66
+43	foxi4_1,2.93
+44	SPRR5,4.88
+45	ybx1,4.96
+46	tfap2a,0.9
+47	SPRR5,5.63
+48	gata2,1.27
+49	pcdh8_1,2.61
+50	foxi4_1,4.02
+51	tfap2c,1.38
+52	tfap2a,3.07
+53	sox2,5.01
+54	t_T,2.22
+55	wnt8a,0.24
+56	frzb2,1.94
+57	chtop,1.34
+58	sox3,1.4
+59	SPRR5,5.81
+60	cyp26a1,5.25
+61	hnrnpl,2.29
+62	vegt,6.62
+63	ankrd13c,3.52
+64	mst1r,0.96
+65	baf,0.34
+66	sox2,2.49
+67	unc119b,1.82
+68	t_T,9.08
+69	hsph1,3.64
+70	S12-neural plate
+71	ccno,1.26
+72	znf750,1.51
+73	S12-non-neural ectoderm
+74	klf5,7.09
+75	foxj1,0.28
+76	S12-ciliated epidermal progenitor
+77	NAG13,1.3
+78	zc2hc1c,1.06
+79	TUBA1A_2,1.84
+80	frs2,1.9
+81	foxi1,2.93
+82	atp5f1,0.96
+83	S12-ionocyte
+84	dll1,6.16
+85	churc1,1.52
+86	znf750,0.95
+87	znf385c,1.28
+88	foxi1,1.66
+89	dynll1,6.35
+90	foxj1,2.01
+91	ccno,2.15
+92	slc25a29,1.11
+93	pcsk7,0.34
+94	foxn4,1.06
+95	gadd45a,2.66
+96	tango2,1.19
+97	foxred1,0.32
+98	LOC728026,52.43
+99	gapdh,2.27
+100	S12-involuted ventral mesoderm
+101	S12-involuted dorsal mesoderm
+102	msgn1,2.82
+103	ndufb3,3.31
+104	cdadc1,2.88
+105	Xetrov90027851m,3.34
+106	sp5l,7.67
+107	arhgdig,4.71
+108	wnt8a,0.33
+109	RCL1,1.46
+110	msgn1,1.69
+111	PSMC4,1.39
+112	cebpd,2.63
+113	eef1a1o,34.08
+114	cfd,2.69
+115	darmin,0.65
+116	msgn1,2.7
+117	t_T,7.07
+118	pcdh8_1,3.63
+119	S12-tail bud
+120	foxc1,2.75
+121	wdr83os,25.93
+122	gapdh,0.26
+123	clpp,1.71
+124	dhrs3,1.27
+125	rpl13,2.99
+126	hkdc1,0.98
+127	fxr1,0.6
+128	cdadc1,0.79
+129	sec23a,4.28
+130	ngfr,2.58
+131	eef1a1o,58.07
+132	t_T,0.82
+133	rpl22,1.36
+134	ell2,2.1
+135	itga2,2.5
+136	fn1,4.68
+137	CELSR1,1.66
+138	cdx4,0.32
+139	msgn1,1.13
+140	hal,3.24
+141	cdx1,2.56
+142	pcdh8_1,1.26
+143	ube2q2,3.91
+144	rad21,0.98
+145	sp1,0.71
+146	gapdh,2.05
+147	S12-notochord
+148	S12-Spemann organizer (endoderm)
+149	S12-endoderm
+150	snai2,0.87
+151	zic1,0.73
+152	S14-eye primordium
+153	S14-anterior neural plate - fezf1
+154	irx3,0.15
+155	cdx4,1.86
+156	S14-chordal neural plate
+157	S14-chordal neural plate border
+158	col2a1,2.43
+159	tp53bp2,1.93
+160	S14-notoplate
+161	S14-anterior neural plate - nkx2-1/nkx2-4
+162	nat10,0.83
+163	ube2b,0.73
+164	rax,0.55
+165	rasal2_1,1.38
+166	dmrta1,0.19
+167	STN1,0.51
+168	nkx2,3.42
+169	neurog1,0.6
+170	tmem69,0.3
+171	gadd45g,1.0
+172	yaf2,0.72
+173	S14-early neuron
+174	like_SERPINH1,4.94
+175	mns1,0.14
+176	LOC398686,0.4
+177	tubb3,0.38
+178	chst7,0.55
+179	casp3,0.33
+180	S14-neural crest
+181	MGC76254,0.9
+182	mrps12,1.94
+183	nfe2l3,0.51
+184	suv39h2,0.41
+185	snai2,1.76
+186	FAM227B,0.65
+187	mtg2,0.33
+188	MGC64293,17.1
+189	cdx2,0.96
+190	S14-posterior placodal area
+191	S14-epidermal - collagen
+192	chga,5.78
+193	S14-neuroendocrine cell
+194	pitx1,0.85
+195	ube2e3,2.01
+196	S14-anterior placodal area
+197	gata2,4.48
+198	znf750,0.49
+199	S14-cement gland primordium
+200	pax6,0.81
+201	TNP_1,0.53
+202	slc1a2,0.33
+203	S14-epidermal - ctbs
+204	Xetrov90024133m,1.82
+205	rpl21,5.34
+206	foxa1,4.48
+207	dlat,3.51
+208	S14-small secretory cells
+209	tp53rk,1.92
+210	krt5_6,56.6
+211	crisp1,14.76
+212	S14-hatching gland
+213	LOC394967_1,12.04
+214	S14-goblet cell
+215	actb,29.0
+216	sox11,0.74
+217	c9_C9_PROV,0.95
+218	klf6,2.28
+219	tra2b,0.13
+220	apoc1,2.79
+221	mib1,0.94
+222	myb,1.95
+223	pbrm1,4.49
+224	c1orf50,0.45
+225	itga3,2.86
+226	ptges3,0.33
+227	psmb7,1.37
+228	krt18,5.23
+229	tnks,1.24
+230	pxn,1.61
+231	trmt61a,0.43
+232	ngfr,2.47
+233	flna,2.59
+234	abcd3,1.13
+235	ctbs,15.15
+236	ssr4,7.84
+237	apoc1,1.52
+238	PNKD,1.96
+239	pax8,2.66
+240	S14-ciliated epidermal progenitor
+241	S14-ionocyte
+242	S14-notochord
+243	actc1,22.48
+244	fbxo45,1.98
+245	S14-intermediate mesoderm
+246	S14-presomitic mesoderm
+247	cdx4,1.29
+248	ythdf2,2.56
+249	actc1,6.02
+250	cmpk1,0.48
+251	S14-somite
+252	krt18,2.1
+253	CNOT3,0.94
+254	S14-intermediate mesoderm -ssg1
+255	sp5l,3.06
+256	map4k3,1.79
+257	myl1,1.67
+258	hes6,0.67
+259	ntn1,0.75
+260	qki,6.07
+261	hoxc10,0.93
+262	myo1e_1,3.12
+263	scap,1.02
+264	ebf3,0.64
+265	MGC68456,3.68
+266	nadsyn1,1.14
+267	vim,1.63
+268	LOC495513_5,0.42
+269	S14-tail bud
+270	mpo,5.61
+271	hspa5,3.53
+272	S14-lateral plate mesoderm
+273	SEC63,1.38
+274	SMC2,4.17
+275	S14-migrating myeloid progenitors
+276	Xetrov90010663m,0.86
+277	atp5g3,14.2
+278	ppp2ca,2.15
+279	spib,0.26
+280	S14-Spemann organizer (endoderm)
+281	S14-endoderm

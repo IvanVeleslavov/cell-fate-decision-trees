@@ -1,0 +1,203 @@
+Cluster_id,Stage,Cluster_name,Parent,Node_class
+1,8,S08-blastula,0,internal
+2,10,S10-neuroectoderm,1,internal
+3,10,S10-non-neural ectoderm,1,internal
+4,10,S10-marginal zone,1,internal
+5,10,S10-Spemann organizer (mesoderm),1,internal
+6,10,S10-Spemann organizer (endoderm),1,internal
+7,10,S10-endoderm,1,internal
+8,12,S12-neural plate,2,internal
+9,12,S12-non-neural ectoderm,3,internal
+10,12,S12-ciliated epidermal progenitor,3,internal
+11,12,S12-ionocyte,3,internal
+12,12,S12-notochord,5,internal
+13,12,S12-involuted dorsal mesoderm,4,internal
+14,12,S12-tail bud,4,internal
+15,12,S12-involuted ventral mesoderm,4,internal
+16,12,S12-Spemann organizer (endoderm),6,internal
+17,12,S12-endoderm,7,internal
+18,14,S14-goblet cell,9,internal
+19,14,S14-neural crest,8,internal
+20,14,S14-early neuron,8,internal
+21,14,S14-chordal neural plate,8,internal
+22,14,S14-notoplate,8,internal
+23,14,S14-anterior placodal area,9,internal
+24,14,S14-epidermal - ctbs,9,internal
+25,14,S14-eye primordium,8,internal
+26,14,S14-anterior neural plate - nkx2-1/nkx2-4,8,internal
+27,14,S14-epidermal - collagen,9,internal
+28,14,S14-hatching gland,9,internal
+29,14,S14-tail bud,14,internal
+30,14,S14-anterior neural plate - fezf1,8,internal
+31,14,S14-presomitic mesoderm,13,internal
+32,14,S14-posterior placodal area,9,internal
+33,14,S14-cement gland primordium,9,internal
+34,14,S14-ionocyte,11,internal
+35,14,S14-small secretory cells,9,internal
+36,14,S14-chordal neural plate border,8,internal
+37,14,S14-ciliated epidermal progenitor,10,internal
+38,14,S14-lateral plate mesoderm,15,internal
+39,14,S14-intermediate mesoderm,13,internal
+40,14,S14-neuroendocrine cell,9,terminal
+41,14,S14-notochord,12,internal
+42,14,S14-somite,13,internal
+43,14,S14-migrating myeloid progenitors,15,internal
+44,14,S14-intermediate mesoderm -ssg1,13,internal
+45,14,S14-Spemann organizer (endoderm),16,terminal
+46,14,S14-endoderm,17,internal
+47,16,S16-small secretory cells,111111,unclassified
+48,16,S16-early neuron,111111,unclassified
+49,16,S16-neural crest,111111,unclassified
+50,16,S16-eye primordium,111111,unclassified
+51,16,S16-posterior placodal area,111111,unclassified
+52,16,S16-anterior placodal area,111111,unclassified
+53,16,S16-chordal neural plate,111111,unclassified
+54,16,S16-epidermal - ctbs,111111,unclassified
+55,16,S16-anterior neural plate - fezf1,111111,unclassified
+56,16,S16-cement gland primordium,111111,unclassified
+57,16,S16-goblet cell,111111,unclassified
+58,16,S16-anterior neural plate - nkx2-1/nkx2-4,111111,unclassified
+59,16,S16-presomitic mesoderm,111111,unclassified
+60,16,S16-ionocyte,111111,unclassified
+61,16,S16-somite,111111,unclassified
+62,16,S16-notoplate,111111,unclassified
+63,16,S16-chordal neural plate border,111111,unclassified
+64,16,S16-lateral plate mesoderm,111111,unclassified
+65,16,S16-intermediate mesoderm,111111,unclassified
+66,16,S16-epidermal - collagen,111111,unclassified
+67,16,S16-endoderm,111111,unclassified
+68,16,S16-migrating myeloid progenitors,111111,unclassified
+69,16,S16-dorsal lateral plate region,111111,unclassified
+70,16,S16-notochord,111111,unclassified
+71,16,S16-tail bud,111111,unclassified
+72,16,S16-ciliated epidermal progenitor,111111,unclassified
+73,16,S16-intermediate mesoderm - ssg1,111111,unclassified
+74,16,S16-hatching gland,111111,unclassified
+75,18,S18-goblet cell,111111,unclassified
+76,18,S18-lens precursor - cryba1/crybb1,111111,unclassified
+77,18,S18-cement gland primordium,111111,unclassified
+78,18,S18-cranial neural crest,111111,unclassified
+79,18,S18-posterior neural tube,111111,unclassified
+80,18,S18-somite,111111,unclassified
+81,18,S18-ionocyte,111111,unclassified
+82,18,S18-dorsal lateral plate region - angptl2/cdh11,111111,unclassified
+83,18,S18-posterior placodal area,111111,unclassified
+84,18,S18-epidermal - ctbs,111111,unclassified
+85,18,S18-anterior neural tube - fezf1,111111,unclassified
+86,18,S18-definitive hemangioblast,111111,unclassified
+87,18,S18-eye primordium,111111,unclassified
+88,18,S18-adenohypophyseal placode,111111,unclassified
+89,18,S18-neuron - ina,111111,unclassified
+90,18,S18-ciliated epidermis,111111,unclassified
+91,18,S18-chordal neural crest,111111,unclassified
+92,18,S18-anterior neural tube - nkx2-1/nkx2-4,111111,unclassified
+93,18,S18-placodal neuron - eya2/neurog1/neurod1,111111,unclassified
+94,18,S18-epidermal - collagen,111111,unclassified
+95,18,S18-epidermal - tll2,111111,unclassified
+96,18,S18-Rohon-beard neuron,111111,unclassified
+97,18,S18-small secretory cells,111111,unclassified
+98,18,S18-ventral blood island,111111,unclassified
+99,18,S18-migrating myeloid progenitors,111111,unclassified
+100,18,S18-notochord,111111,unclassified
+101,18,S18-intermediate mesoderm,111111,unclassified
+102,18,S18-presomitic mesoderm,111111,unclassified
+103,18,S18-anterior placodal area,111111,unclassified
+104,18,S18-tail bud,111111,unclassified
+105,18,S18-pronephric mesenchyme,111111,unclassified
+106,18,S18-notoplate,111111,unclassified
+107,18,S18-intermediate mesoderm - ssg1,111111,unclassified
+108,18,S18-chordal neural plate border,111111,unclassified
+109,18,S18-lateral plate mesoderm,111111,unclassified
+110,18,S18-blood,111111,unclassified
+111,18,S18-endoderm - nkx2-6/slc6a14.2,111111,unclassified
+112,18,S18-endoderm - cml/atp1a1,111111,unclassified
+113,18,S18-epidermal - aqp3,111111,unclassified
+114,20,S20-anterior neural tube - fezf1,111111,unclassified
+115,20,S20-chordal neural crest 1 - sox8/snai2,111111,unclassified
+116,20,S20-small secretory cells,111111,unclassified
+117,20,S20-intermediate mesoderm,111111,unclassified
+118,20,S20-posterior neural tube,111111,unclassified
+119,20,S20-chordal neural crest 2 - tnc/wnt11/olig4,111111,unclassified
+120,20,S20-epidermal - collagen,111111,unclassified
+121,20,S20-cranial neural crest 2 - dlx1/2,111111,unclassified
+122,20,S20-goblet cell,111111,unclassified
+123,20,S20-eye primordium,111111,unclassified
+124,20,S20-cranial neural crest 3 - egr2/hoxc3,111111,unclassified
+125,20,S20-lens precursor - cryba1/crybb1,111111,unclassified
+126,20,S20-somite,111111,unclassified
+127,20,S20-posterior placodal area,111111,unclassified
+128,20,S20-epidermal - ctbs,111111,unclassified
+129,20,S20-otic placode,111111,unclassified
+130,20,S20-posterior placodal ectoderm - sst,111111,unclassified
+131,20,S20-adenohypophyseal placode,111111,unclassified
+132,20,S20-presomitic mesoderm,111111,unclassified
+133,20,S20-cranial neural crest 1 - alx1/rpe65,111111,unclassified
+134,20,S20-neuron - ina,111111,unclassified
+135,20,S20-ionocyte,111111,unclassified
+136,20,S20-Rohon-beard neuron,111111,unclassified
+137,20,S20-tail bud,111111,unclassified
+138,20,S20-anterior neural tube - nkx2-1/nkx2-4,111111,unclassified
+139,20,S20-intermediate mesoderm - ssg1,111111,unclassified
+140,20,S20-ciliated epidermal progenitor,111111,unclassified
+141,20,S20-placodal neuron - eya2/neurog1/neurod1,111111,unclassified
+142,20,S20-blood,111111,unclassified
+143,20,S20-cement gland primordium,111111,unclassified
+144,20,S20-ventral blood island,111111,unclassified
+145,20,S20-epidermal - tll2,111111,unclassified
+146,20,S20-dorsal lateral plate region - angptl2/cdh11,111111,unclassified
+147,20,S20-lateral plate mesoderm,111111,unclassified
+148,20,S20-anterior placodal area,111111,unclassified
+149,20,S20-cardiac mesoderm,111111,unclassified
+150,20,S20-notochord,111111,unclassified
+151,20,S20-endoderm - nkx2-6/slc6a14.2,111111,unclassified
+152,20,S20-pronephric mesenchyme,111111,unclassified
+153,20,S20-migrating myeloid progenitors,111111,unclassified
+154,20,S20-definitive hemangioblast,111111,unclassified
+155,20,S20-notoplate,111111,unclassified
+156,20,S20-endoderm - cml/atp1a1,111111,unclassified
+157,22,S22-goblet cell,111111,unclassified
+158,22,S22-cranial neural crest 1 - alx1/rpe65,111111,unclassified
+159,22,S22-posterior neural tube,111111,unclassified
+160,22,S22-somite,111111,unclassified
+161,22,S22-optic vesicle,111111,unclassified
+162,22,S22-neuron - ina,111111,unclassified
+163,22,S22-intermediate mesoderm - ssg1/ltbp1,111111,unclassified
+164,22,S22-cranial neural crest 2 - dlx1/2,111111,unclassified
+165,22,S22-anterior neural tube - fezf1,111111,unclassified
+166,22,S22-migrating myeloid progenitors,111111,unclassified
+167,22,S22-Rohon-beard neuron,111111,unclassified
+168,22,S22-otic placode,111111,unclassified
+169,22,S22-presomitic mesoderm,111111,unclassified
+170,22,S22-chordal neural crest 1 - sox8/snai2,111111,unclassified
+171,22,S22-intermediate mesoderm,111111,unclassified
+172,22,S22-posterior placodal ectoderm - sst,111111,unclassified
+173,22,S22-olfactory placode,111111,unclassified
+174,22,S22-optic neuron,111111,unclassified
+175,22,S22-cranial neural crest 3 - egr2/hoxc3,111111,unclassified
+176,22,S22-epibranchial placode,111111,unclassified
+177,22,S22-lateral plate mesoderm,111111,unclassified
+178,22,S22-anterior neural tube - nkx2-1/nkx2-4,111111,unclassified
+179,22,S22-lens precursor - cryba1/crybb1,111111,unclassified
+180,22,S22-posterior placodal ectoderm - vgll2,111111,unclassified
+181,22,S22-epidermal - collagen,111111,unclassified
+182,22,S22-epidermal - tll2,111111,unclassified
+183,22,S22-epidermal - ctbs,111111,unclassified
+184,22,S22-adenohypophyseal placode,111111,unclassified
+185,22,S22-chordal neural crest 2 - tnc/wnt11/olig4,111111,unclassified
+186,22,S22-ionocyte 1,111111,unclassified
+187,22,S22-small secretory cells,111111,unclassified
+188,22,S22-tail bud,111111,unclassified
+189,22,S22-placodal neuron - eya2/neurog1/neurod1,111111,unclassified
+190,22,S22-ventral blood island,111111,unclassified
+191,22,S22-intermediate mesoderm - ssg1,111111,unclassified
+192,22,S22-blood,111111,unclassified
+193,22,S22-dorsal lateral plate region - angptl2/cdh11,111111,unclassified
+194,22,S22-cardiac mesoderm,111111,unclassified
+195,22,S22-endoderm - cml/atp1a1,111111,unclassified
+196,22,S22-ciliated epidermal progenitor,111111,unclassified
+197,22,S22-endoderm - nkx2-6/slc6a14.2,111111,unclassified
+198,22,S22-notochord,111111,unclassified
+199,22,S22-pronephric mesenchyme,111111,unclassified
+200,22,S22-ionocyte 2,111111,unclassified
+201,22,S22-definitive hemangioblast,111111,unclassified
+202,22,S22-cement gland primordium,111111,unclassified
